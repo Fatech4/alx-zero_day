@@ -1,1 +1,1 @@
-The main project README
+The new README
